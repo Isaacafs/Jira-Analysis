@@ -1,2 +1,3 @@
 # Ignorar dataset original
 data/*
+!data/.gitkeep
